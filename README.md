@@ -1,4 +1,3 @@
-# java-intelligent-texteditor
 # Motivation to create this project 
 Become familiar with `Algorithmia` that provide a lot of algorithms. In this project I used 
 `Programming language identification`.
